@@ -1,2 +1,3 @@
-# Issues
- Raise any bugs or feature requests here. 
+### [View Existing Issues](https://github.com/CleanShare/Issues/issues)
+
+### [Create New Issue](https://github.com/CleanShare/Issues/issues/new/choose)
