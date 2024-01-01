@@ -23,8 +23,8 @@ assignees: ''
 **Observed Behaviour**
 <!-- What you saw happen. -->
 
-**Screenshots**  
-<!-- If applicable, add screenshots to help explain your problem. -->
+**Footage**  
+<!-- If applicable, add images or videos to help explain your problem. -->
 
 **Metadata:**  
  - Device: <!-- e.g. iPhone 8, Macbook Pro -->
