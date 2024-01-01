@@ -18,17 +18,18 @@ assignees: ''
 -->
 
 **Expected Behavior**  
-<!-- A clear and concise description of what you expected to happen. -->
+<!-- What you expected to happen. -->
 
 **Observed Behaviour**
+<!-- What you saw happen. -->
 
 **Screenshots**  
 <!-- If applicable, add screenshots to help explain your problem. -->
 
 **Metadata:**  
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - App Version [e.g. 22]
+ - Device: <!-- e.g. iPhone 8, Macbook Pro -->
+ - OS: <!-- e.g. iOS 8.1, macOS 14.2 -->
+ - App Version: <!-- e.g. 2.2.8 -->
 
 **Additional context**  
 <!-- Add any other context about the problem here. -->
